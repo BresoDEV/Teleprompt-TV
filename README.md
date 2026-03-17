@@ -1,5 +1,7 @@
 # 📺 Teleprompt TV
 
+Link: https://bresodev.github.io/Teleprompt-TV
+
 Um teleprompter simples feito em HTML para exibir textos em tela cheia, ideal para leitura em TVs, gravações de vídeo ou apresentações.
 
 ---
